@@ -1,0 +1,11 @@
+{
+  "/page": "app/page.js",
+  "/(auth)/login/page": "app/(auth)/login/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/(auth)/register/page": "app/(auth)/register/page.js",
+  "/(auth)/register/owner/page": "app/(auth)/register/owner/page.js",
+  "/(auth)/register/renter/page": "app/(auth)/register/renter/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/properties/page": "app/properties/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}
