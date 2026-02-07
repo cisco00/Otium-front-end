@@ -1,5 +1,5 @@
-import { 
-  User, Home, Search, Calendar, Heart, Settings, 
+import {
+  User, Home, Search, Calendar, Heart, Settings,
   Building2, BarChart3, Bell, LogOut,
   Shield, CreditCard, MessageSquare, HelpCircle, FileText, UserCheck,
   ChevronLeft, ChevronRight, Star, MapPin, Clock
@@ -62,15 +62,15 @@ export function UserSidebar({ userType, currentView, onNavigate, onLogout }: Use
 
   const ownerMenuItems = [
     { id: "dashboard", label: "Dashboard", icon: Home },
-    { id: "search", label: "My Properties", icon: Building2 },
+    { id: "my-properties", label: "My Properties", icon: Building2 },
     { id: "booking-requests", label: "Booking Requests", icon: Calendar },
     { id: "extension-requests", label: "Extension Requests", icon: Clock },
-    { id: "guest-verification", label: "Manage Guests", icon: UserCheck },
+    { id: "manage-guests", label: "Manage Guests", icon: UserCheck },
     { id: "analytics", label: "Analytics", icon: BarChart3 },
-    { id: "messages", label: "Messages", icon: MessageSquare },
-    { id: "payment", label: "Payments", icon: CreditCard },
-    { id: "profile", label: "Profile Settings", icon: Settings },
-    { id: "help-center", label: "Help Center", icon: HelpCircle },
+    { id: "owner-messages", label: "Messages", icon: MessageSquare },
+    { id: "owner-payment", label: "Payments", icon: CreditCard },
+    { id: "owner-profile", label: "Profile Settings", icon: Settings },
+    { id: "owner-help-center", label: "Help Center", icon: HelpCircle },
   ];
 
   const adminMenuItems = [
@@ -84,10 +84,10 @@ export function UserSidebar({ userType, currentView, onNavigate, onLogout }: Use
     { id: "settings", label: "Settings", icon: Settings },
   ];
 
-  const menuItems = 
-    userType === "admin" ? adminMenuItems : 
-    userType === "owner" ? ownerMenuItems : 
-    travelerMenuItems;
+  const menuItems =
+    userType === "admin" ? adminMenuItems :
+      userType === "owner" ? ownerMenuItems :
+        travelerMenuItems;
 
   return (
     <aside className={`${isMinimized ? 'w-20' : 'w-80'} bg-white border-r border-gray-200 h-screen sticky top-0 overflow-y-auto flex flex-col transition-all duration-300`}>
@@ -121,8 +121,8 @@ export function UserSidebar({ userType, currentView, onNavigate, onLogout }: Use
             <div className="bg-gradient-to-br from-teal-50 to-emerald-50 rounded-xl p-4 border border-teal-100">
               <div className="flex items-start gap-3 mb-4">
                 <div className="relative">
-                  <img 
-                    src={ownerInfo.avatar} 
+                  <img
+                    src={ownerInfo.avatar}
                     alt={ownerInfo.name}
                     className="w-14 h-14 rounded-full object-cover ring-2 ring-white"
                   />
@@ -168,8 +168,8 @@ export function UserSidebar({ userType, currentView, onNavigate, onLogout }: Use
             <div className="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl p-4 border border-blue-100">
               <div className="flex items-start gap-3 mb-4">
                 <div className="relative">
-                  <img 
-                    src={travelerInfo.avatar} 
+                  <img
+                    src={travelerInfo.avatar}
                     alt={travelerInfo.name}
                     className="w-14 h-14 rounded-full object-cover ring-2 ring-white"
                   />
@@ -224,16 +224,15 @@ export function UserSidebar({ userType, currentView, onNavigate, onLogout }: Use
           {menuItems.map((item) => {
             const Icon = item.icon;
             const isActive = currentView === item.id;
-            
+
             return (
               <button
                 key={item.id}
                 onClick={() => onNavigate(item.id)}
-                className={`w-full flex items-center ${isMinimized ? 'justify-center px-3' : 'gap-3 px-4'} py-3 rounded-lg transition-all text-left ${
-                  isActive
-                    ? "bg-teal-50 text-teal-700 font-medium"
-                    : "text-gray-600 hover:bg-gray-50"
-                }`}
+                className={`w-full flex items-center ${isMinimized ? 'justify-center px-3' : 'gap-3 px-4'} py-3 rounded-lg transition-all text-left ${isActive
+                  ? "bg-teal-50 text-teal-700 font-medium"
+                  : "text-gray-600 hover:bg-gray-50"
+                  }`}
                 title={isMinimized ? item.label : undefined}
               >
                 <Icon className={`h-5 w-5 flex-shrink-0 ${isActive ? "text-teal-600" : "text-gray-500"}`} />

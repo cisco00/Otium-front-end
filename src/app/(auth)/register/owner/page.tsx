@@ -4,13 +4,12 @@ import { OwnerRegistration } from "@/components/OwnerRegistration";
 import { useUser } from "@/context/UserContext";
 
 export default function OwnerRegisterPage() {
-    const { navigate, setAuthView } = useUser();
+    const { navigate, setAuthView, login } = useUser();
 
     return (
         <OwnerRegistration
             onComplete={() => {
-                setAuthView("login");
-                navigate("landing"); // Or login
+                login("owner");
             }}
             onBack={() => {
                 setAuthView("login");

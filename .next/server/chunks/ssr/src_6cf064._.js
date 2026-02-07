@@ -649,6 +649,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$re
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$briefcase$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Briefcase$3e$__ = __turbopack_import__("[project]/node_modules/lucide-react/dist/esm/icons/briefcase.js [app-ssr] (ecmascript) <export default as Briefcase>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$map$2d$pin$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__MapPin$3e$__ = __turbopack_import__("[project]/node_modules/lucide-react/dist/esm/icons/map-pin.js [app-ssr] (ecmascript) <export default as MapPin>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$credit$2d$card$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CreditCard$3e$__ = __turbopack_import__("[project]/node_modules/lucide-react/dist/esm/icons/credit-card.js [app-ssr] (ecmascript) <export default as CreditCard>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$globe$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Globe$3e$__ = __turbopack_import__("[project]/node_modules/lucide-react/dist/esm/icons/globe.js [app-ssr] (ecmascript) <export default as Globe>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$car$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Car$3e$__ = __turbopack_import__("[project]/node_modules/lucide-react/dist/esm/icons/car.js [app-ssr] (ecmascript) <export default as Car>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$upload$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Upload$3e$__ = __turbopack_import__("[project]/node_modules/lucide-react/dist/esm/icons/upload.js [app-ssr] (ecmascript) <export default as Upload>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$file$2d$text$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__FileText$3e$__ = __turbopack_import__("[project]/node_modules/lucide-react/dist/esm/icons/file-text.js [app-ssr] (ecmascript) <export default as FileText>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$x$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__X$3e$__ = __turbopack_import__("[project]/node_modules/lucide-react/dist/esm/icons/x.js [app-ssr] (ecmascript) <export default as X>");
@@ -1370,12 +1372,12 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                             }
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 417,
+                                                            lineNumber: 416,
                                                             columnNumber: 25
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 416,
+                                                        lineNumber: 415,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
@@ -1391,14 +1393,14 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 426,
+                                                        lineNumber: 425,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.password
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 425,
+                                                lineNumber: 424,
                                                 columnNumber: 21
                                             }, this)
                                         ]
@@ -1414,7 +1416,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Confirm Password *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 433,
+                                                lineNumber: 432,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1429,7 +1431,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "pr-10"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 435,
+                                                        lineNumber: 434,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1440,24 +1442,24 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                             className: "h-4 w-4"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 448,
+                                                            lineNumber: 447,
                                                             columnNumber: 46
                                                         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$eye$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Eye$3e$__["Eye"], {
                                                             className: "h-4 w-4"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 448,
+                                                            lineNumber: 447,
                                                             columnNumber: 79
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 443,
+                                                        lineNumber: 442,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 434,
+                                                lineNumber: 433,
                                                 columnNumber: 19
                                             }, this),
                                             errors.confirmPassword && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1467,14 +1469,14 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 453,
+                                                        lineNumber: 452,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.confirmPassword
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 452,
+                                                lineNumber: 451,
                                                 columnNumber: 21
                                             }, this),
                                             formData.confirmPassword && formData.password === formData.confirmPassword && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1484,20 +1486,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 459,
+                                                        lineNumber: 458,
                                                         columnNumber: 23
                                                     }, this),
                                                     "Passwords match"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 458,
+                                                lineNumber: 457,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 432,
+                                        lineNumber: 431,
                                         columnNumber: 17
                                     }, this)
                                 ]
@@ -1516,7 +1518,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "h-12 w-12 mx-auto mb-4 text-teal-600"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 471,
+                                                lineNumber: 470,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -1524,7 +1526,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Business Information"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 472,
+                                                lineNumber: 471,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1532,91 +1534,142 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Tell us about your business"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 473,
+                                                lineNumber: 472,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 470,
+                                        lineNumber: 469,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
+                                                className: "text-base font-semibold mb-3 block",
                                                 children: "Business Type *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 477,
+                                                lineNumber: 476,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroup"], {
                                                 value: formData.businessType,
                                                 onValueChange: (value)=>updateFormData("businessType", value),
-                                                className: "mt-2 space-y-2",
+                                                className: "grid grid-cols-1 md:grid-cols-2 gap-4 mt-2",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "flex items-center gap-2",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
-                                                                value: "individual",
-                                                                id: "individual"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 484,
-                                                                columnNumber: 23
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
-                                                                htmlFor: "individual",
-                                                                className: "cursor-pointer",
-                                                                children: "Individual Host"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 485,
-                                                                columnNumber: 23
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true, {
+                                                        className: `relative border-2 rounded-xl p-4 cursor-pointer transition-all ${formData.businessType === "individual" ? "border-teal-600 bg-teal-50" : "border-gray-200 hover:border-gray-300 bg-white"}`,
+                                                        onClick: ()=>updateFormData("businessType", "individual"),
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "flex items-start gap-3",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
+                                                                    value: "individual",
+                                                                    id: "individual",
+                                                                    className: "mt-1"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                    lineNumber: 490,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    children: [
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
+                                                                            htmlFor: "individual",
+                                                                            className: "font-semibold text-lg cursor-pointer block mb-1",
+                                                                            children: "Individual Host"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 492,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                            className: "text-sm text-gray-600",
+                                                                            children: "I am managing my own properties as a private individual."
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 495,
+                                                                            columnNumber: 27
+                                                                        }, this)
+                                                                    ]
+                                                                }, void 0, true, {
+                                                                    fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                    lineNumber: 491,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                            lineNumber: 489,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 483,
+                                                        lineNumber: 482,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "flex items-center gap-2",
-                                                        children: [
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
-                                                                value: "business",
-                                                                id: "business"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 488,
-                                                                columnNumber: 23
-                                                            }, this),
-                                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
-                                                                htmlFor: "business",
-                                                                className: "cursor-pointer",
-                                                                children: "Registered Business"
-                                                            }, void 0, false, {
-                                                                fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 489,
-                                                                columnNumber: 23
-                                                            }, this)
-                                                        ]
-                                                    }, void 0, true, {
+                                                        className: `relative border-2 rounded-xl p-4 cursor-pointer transition-all ${formData.businessType === "business" ? "border-teal-600 bg-teal-50" : "border-gray-200 hover:border-gray-300 bg-white"}`,
+                                                        onClick: ()=>updateFormData("businessType", "business"),
+                                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                            className: "flex items-start gap-3",
+                                                            children: [
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
+                                                                    value: "business",
+                                                                    id: "business",
+                                                                    className: "mt-1"
+                                                                }, void 0, false, {
+                                                                    fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                    lineNumber: 510,
+                                                                    columnNumber: 25
+                                                                }, this),
+                                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    children: [
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
+                                                                            htmlFor: "business",
+                                                                            className: "font-semibold text-lg cursor-pointer block mb-1",
+                                                                            children: "Registered Business"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 512,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                                                            className: "text-sm text-gray-600",
+                                                                            children: "I represent a registered company or property management agency."
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 515,
+                                                                            columnNumber: 27
+                                                                        }, this)
+                                                                    ]
+                                                                }, void 0, true, {
+                                                                    fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                    lineNumber: 511,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            ]
+                                                        }, void 0, true, {
+                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                            lineNumber: 509,
+                                                            columnNumber: 23
+                                                        }, this)
+                                                    }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 487,
+                                                        lineNumber: 502,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 478,
+                                                lineNumber: 477,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 476,
+                                        lineNumber: 475,
                                         columnNumber: 17
                                     }, this),
                                     formData.businessType === "business" && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -1628,7 +1681,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "Business Name *"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 497,
+                                                        lineNumber: 527,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -1639,7 +1692,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "mt-1"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 498,
+                                                        lineNumber: 528,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.businessName && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1649,20 +1702,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 className: "h-3 w-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 507,
+                                                                lineNumber: 537,
                                                                 columnNumber: 27
                                                             }, this),
                                                             errors.businessName
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 506,
+                                                        lineNumber: 536,
                                                         columnNumber: 25
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 496,
+                                                lineNumber: 526,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1672,7 +1725,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "Business Registration Number (Optional)"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 514,
+                                                        lineNumber: 544,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -1683,13 +1736,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "mt-1"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 515,
+                                                        lineNumber: 545,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 513,
+                                                lineNumber: 543,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1699,7 +1752,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "Tax ID / TIN (Optional)"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 525,
+                                                        lineNumber: 555,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -1710,13 +1763,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "mt-1"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 526,
+                                                        lineNumber: 556,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 524,
+                                                lineNumber: 554,
                                                 columnNumber: 21
                                             }, this)
                                         ]
@@ -1724,7 +1777,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                lineNumber: 469,
+                                lineNumber: 468,
                                 columnNumber: 15
                             }, this),
                             step === 4 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1737,7 +1790,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "h-12 w-12 mx-auto mb-4 text-teal-600"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 543,
+                                                lineNumber: 573,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -1745,7 +1798,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Address & Verification"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 544,
+                                                lineNumber: 574,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1753,13 +1806,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Where are you located?"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 545,
+                                                lineNumber: 575,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 542,
+                                        lineNumber: 572,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1769,7 +1822,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Country *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 549,
+                                                lineNumber: 579,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -1779,13 +1832,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "mt-1"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 550,
+                                                lineNumber: 580,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 548,
+                                        lineNumber: 578,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1798,7 +1851,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "State *"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 560,
+                                                        lineNumber: 590,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -1809,7 +1862,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "mt-1"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 561,
+                                                        lineNumber: 591,
                                                         columnNumber: 21
                                                     }, this),
                                                     errors.state && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1819,20 +1872,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 className: "h-3 w-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 570,
+                                                                lineNumber: 600,
                                                                 columnNumber: 25
                                                             }, this),
                                                             errors.state
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 569,
+                                                        lineNumber: 599,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 559,
+                                                lineNumber: 589,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1842,7 +1895,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "City *"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 577,
+                                                        lineNumber: 607,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -1853,7 +1906,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "mt-1"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 578,
+                                                        lineNumber: 608,
                                                         columnNumber: 21
                                                     }, this),
                                                     errors.city && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1863,26 +1916,26 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 className: "h-3 w-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 587,
+                                                                lineNumber: 617,
                                                                 columnNumber: 25
                                                             }, this),
                                                             errors.city
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 586,
+                                                        lineNumber: 616,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 576,
+                                                lineNumber: 606,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 558,
+                                        lineNumber: 588,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1892,7 +1945,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Street Address *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 595,
+                                                lineNumber: 625,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -1903,7 +1956,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "mt-1"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 596,
+                                                lineNumber: 626,
                                                 columnNumber: 19
                                             }, this),
                                             errors.address && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1913,20 +1966,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 605,
+                                                        lineNumber: 635,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.address
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 604,
+                                                lineNumber: 634,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 594,
+                                        lineNumber: 624,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1937,112 +1990,160 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Identity Verification"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 612,
+                                                lineNumber: 642,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
-                                                        htmlFor: "idType",
+                                                        className: "text-base font-semibold mb-3 block",
                                                         children: "ID Type *"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 615,
+                                                        lineNumber: 645,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroup"], {
                                                         value: formData.idType,
                                                         onValueChange: (value)=>updateFormData("idType", value),
-                                                        className: "mt-2 space-y-2",
+                                                        className: "grid grid-cols-1 md:grid-cols-3 gap-4 mt-2",
                                                         children: [
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "flex items-center gap-2",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
-                                                                        value: "national_id",
-                                                                        id: "national_id"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 622,
-                                                                        columnNumber: 25
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
-                                                                        htmlFor: "national_id",
-                                                                        className: "cursor-pointer",
-                                                                        children: "National ID"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 623,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                ]
-                                                            }, void 0, true, {
+                                                                className: `relative border-2 rounded-xl p-4 cursor-pointer transition-all ${formData.idType === "national_id" ? "border-teal-600 bg-teal-50" : "border-gray-200 hover:border-gray-300 bg-white"}`,
+                                                                onClick: ()=>updateFormData("idType", "national_id"),
+                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "flex flex-col items-center text-center gap-2",
+                                                                    children: [
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
+                                                                            value: "national_id",
+                                                                            id: "national_id",
+                                                                            className: "absolute top-3 right-3"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 659,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$credit$2d$card$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CreditCard$3e$__["CreditCard"], {
+                                                                            className: `h-8 w-8 ${formData.idType === "national_id" ? "text-teal-600" : "text-gray-500"}`
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 660,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
+                                                                            htmlFor: "national_id",
+                                                                            className: "font-semibold cursor-pointer",
+                                                                            children: "National ID"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 661,
+                                                                            columnNumber: 27
+                                                                        }, this)
+                                                                    ]
+                                                                }, void 0, true, {
+                                                                    fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                    lineNumber: 658,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 621,
+                                                                lineNumber: 651,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "flex items-center gap-2",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
-                                                                        value: "passport",
-                                                                        id: "passport"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 626,
-                                                                        columnNumber: 25
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
-                                                                        htmlFor: "passport",
-                                                                        className: "cursor-pointer",
-                                                                        children: "International Passport"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 627,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                ]
-                                                            }, void 0, true, {
+                                                                className: `relative border-2 rounded-xl p-4 cursor-pointer transition-all ${formData.idType === "passport" ? "border-teal-600 bg-teal-50" : "border-gray-200 hover:border-gray-300 bg-white"}`,
+                                                                onClick: ()=>updateFormData("idType", "passport"),
+                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "flex flex-col items-center text-center gap-2",
+                                                                    children: [
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
+                                                                            value: "passport",
+                                                                            id: "passport",
+                                                                            className: "absolute top-3 right-3"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 673,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$globe$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Globe$3e$__["Globe"], {
+                                                                            className: `h-8 w-8 ${formData.idType === "passport" ? "text-teal-600" : "text-gray-500"}`
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 674,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
+                                                                            htmlFor: "passport",
+                                                                            className: "font-semibold cursor-pointer",
+                                                                            children: "Intl. Passport"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 675,
+                                                                            columnNumber: 27
+                                                                        }, this)
+                                                                    ]
+                                                                }, void 0, true, {
+                                                                    fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                    lineNumber: 672,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 625,
+                                                                lineNumber: 665,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                                className: "flex items-center gap-2",
-                                                                children: [
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
-                                                                        value: "drivers_license",
-                                                                        id: "drivers_license"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 630,
-                                                                        columnNumber: 25
-                                                                    }, this),
-                                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
-                                                                        htmlFor: "drivers_license",
-                                                                        className: "cursor-pointer",
-                                                                        children: "Driver's License"
-                                                                    }, void 0, false, {
-                                                                        fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 631,
-                                                                        columnNumber: 25
-                                                                    }, this)
-                                                                ]
-                                                            }, void 0, true, {
+                                                                className: `relative border-2 rounded-xl p-4 cursor-pointer transition-all ${formData.idType === "drivers_license" ? "border-teal-600 bg-teal-50" : "border-gray-200 hover:border-gray-300 bg-white"}`,
+                                                                onClick: ()=>updateFormData("idType", "drivers_license"),
+                                                                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                                    className: "flex flex-col items-center text-center gap-2",
+                                                                    children: [
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$radio$2d$group$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["RadioGroupItem"], {
+                                                                            value: "drivers_license",
+                                                                            id: "drivers_license",
+                                                                            className: "absolute top-3 right-3"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 687,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$car$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Car$3e$__["Car"], {
+                                                                            className: `h-8 w-8 ${formData.idType === "drivers_license" ? "text-teal-600" : "text-gray-500"}`
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 688,
+                                                                            columnNumber: 27
+                                                                        }, this),
+                                                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
+                                                                            htmlFor: "drivers_license",
+                                                                            className: "font-semibold cursor-pointer",
+                                                                            children: "Driver's License"
+                                                                        }, void 0, false, {
+                                                                            fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                            lineNumber: 689,
+                                                                            columnNumber: 27
+                                                                        }, this)
+                                                                    ]
+                                                                }, void 0, true, {
+                                                                    fileName: "[project]/src/components/OwnerRegistration.tsx",
+                                                                    lineNumber: 686,
+                                                                    columnNumber: 25
+                                                                }, this)
+                                                            }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 629,
+                                                                lineNumber: 679,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 616,
+                                                        lineNumber: 646,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 614,
+                                                lineNumber: 644,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2053,7 +2154,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "ID Number *"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 637,
+                                                        lineNumber: 696,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -2064,7 +2165,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "mt-1"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 638,
+                                                        lineNumber: 697,
                                                         columnNumber: 21
                                                     }, this),
                                                     errors.idNumber && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2074,32 +2175,32 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 className: "h-3 w-3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 647,
+                                                                lineNumber: 706,
                                                                 columnNumber: 25
                                                             }, this),
                                                             errors.idNumber
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 646,
+                                                        lineNumber: 705,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 636,
+                                                lineNumber: 695,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 611,
+                                        lineNumber: 641,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                lineNumber: 541,
+                                lineNumber: 571,
                                 columnNumber: 15
                             }, this),
                             step === 5 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2112,7 +2213,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "h-12 w-12 mx-auto mb-4 text-teal-600"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 660,
+                                                lineNumber: 719,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -2120,7 +2221,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Banking Information"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 661,
+                                                lineNumber: 720,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2128,13 +2229,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "For receiving payments"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 662,
+                                                lineNumber: 721,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 659,
+                                        lineNumber: 718,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2146,19 +2247,19 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                     children: "Secure Payment:"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                    lineNumber: 667,
+                                                    lineNumber: 726,
                                                     columnNumber: 21
                                                 }, this),
                                                 " Your banking information is encrypted and secure. We support Paystack, Flutterwave, and direct bank transfers."
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                            lineNumber: 666,
+                                            lineNumber: 725,
                                             columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 665,
+                                        lineNumber: 724,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2168,7 +2269,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Bank Name *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 673,
+                                                lineNumber: 732,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -2179,7 +2280,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "mt-1"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 674,
+                                                lineNumber: 733,
                                                 columnNumber: 19
                                             }, this),
                                             errors.bankName && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2189,20 +2290,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 683,
+                                                        lineNumber: 742,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.bankName
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 682,
+                                                lineNumber: 741,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 672,
+                                        lineNumber: 731,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2212,7 +2313,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Account Number *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 690,
+                                                lineNumber: 749,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -2223,7 +2324,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "mt-1"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 691,
+                                                lineNumber: 750,
                                                 columnNumber: 19
                                             }, this),
                                             errors.accountNumber && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2233,20 +2334,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 700,
+                                                        lineNumber: 759,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.accountNumber
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 699,
+                                                lineNumber: 758,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 689,
+                                        lineNumber: 748,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2256,7 +2357,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Account Name *"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 707,
+                                                lineNumber: 766,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$input$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Input"], {
@@ -2267,7 +2368,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "mt-1"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 708,
+                                                lineNumber: 767,
                                                 columnNumber: 19
                                             }, this),
                                             errors.accountName && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2277,26 +2378,26 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 717,
+                                                        lineNumber: 776,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.accountName
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 716,
+                                                lineNumber: 775,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 706,
+                                        lineNumber: 765,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                lineNumber: 658,
+                                lineNumber: 717,
                                 columnNumber: 15
                             }, this),
                             step === 6 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2309,7 +2410,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "h-12 w-12 mx-auto mb-4 text-teal-600"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 729,
+                                                lineNumber: 788,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -2317,7 +2418,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Property Details"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 730,
+                                                lineNumber: 789,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2325,13 +2426,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Tell us about your properties"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 731,
+                                                lineNumber: 790,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 728,
+                                        lineNumber: 787,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2341,7 +2442,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Property Types You Own"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 735,
+                                                lineNumber: 794,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2356,7 +2457,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 onCheckedChange: (checked)=>updatePropertyType("apartment", checked)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 738,
+                                                                lineNumber: 797,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2365,13 +2466,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "Apartment"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 743,
+                                                                lineNumber: 802,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 737,
+                                                        lineNumber: 796,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2383,7 +2484,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 onCheckedChange: (checked)=>updatePropertyType("house", checked)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 748,
+                                                                lineNumber: 807,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2392,13 +2493,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "House"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 753,
+                                                                lineNumber: 812,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 747,
+                                                        lineNumber: 806,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2410,7 +2511,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 onCheckedChange: (checked)=>updatePropertyType("villa", checked)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 758,
+                                                                lineNumber: 817,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2419,13 +2520,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "Villa"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 763,
+                                                                lineNumber: 822,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 757,
+                                                        lineNumber: 816,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2437,7 +2538,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 onCheckedChange: (checked)=>updatePropertyType("condo", checked)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 768,
+                                                                lineNumber: 827,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2446,13 +2547,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "Condo"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 773,
+                                                                lineNumber: 832,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 767,
+                                                        lineNumber: 826,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2464,7 +2565,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 onCheckedChange: (checked)=>updatePropertyType("townhouse", checked)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 778,
+                                                                lineNumber: 837,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2473,13 +2574,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "Townhouse"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 783,
+                                                                lineNumber: 842,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 777,
+                                                        lineNumber: 836,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2491,7 +2592,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 onCheckedChange: (checked)=>updatePropertyType("penthouse", checked)
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 788,
+                                                                lineNumber: 847,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -2500,19 +2601,19 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "Penthouse"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 793,
+                                                                lineNumber: 852,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 787,
+                                                        lineNumber: 846,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 736,
+                                                lineNumber: 795,
                                                 columnNumber: 19
                                             }, this),
                                             errors.propertyTypes && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2522,20 +2623,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 800,
+                                                        lineNumber: 859,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.propertyTypes
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 799,
+                                                lineNumber: 858,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 734,
+                                        lineNumber: 793,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2546,7 +2647,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Primary Locations"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 807,
+                                                lineNumber: 866,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$textarea$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Textarea"], {
@@ -2557,7 +2658,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "mt-2 min-h-[100px]"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 808,
+                                                lineNumber: 867,
                                                 columnNumber: 19
                                             }, this),
                                             errors.primaryLocations && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2567,20 +2668,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 817,
+                                                        lineNumber: 876,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.primaryLocations
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 816,
+                                                lineNumber: 875,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 806,
+                                        lineNumber: 865,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2591,7 +2692,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Experience"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 824,
+                                                lineNumber: 883,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$select$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Select"], {
@@ -2604,12 +2705,12 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                             placeholder: "Years of experience"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 827,
+                                                            lineNumber: 886,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 826,
+                                                        lineNumber: 885,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$select$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SelectContent"], {
@@ -2619,7 +2720,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "0-1 years"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 830,
+                                                                lineNumber: 889,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$select$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SelectItem"], {
@@ -2627,7 +2728,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "1-3 years"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 831,
+                                                                lineNumber: 890,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$select$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SelectItem"], {
@@ -2635,7 +2736,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "3-5 years"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 832,
+                                                                lineNumber: 891,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$select$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SelectItem"], {
@@ -2643,7 +2744,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "5-10 years"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 833,
+                                                                lineNumber: 892,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$select$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["SelectItem"], {
@@ -2651,19 +2752,19 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "10+ years"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 834,
+                                                                lineNumber: 893,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 829,
+                                                        lineNumber: 888,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 825,
+                                                lineNumber: 884,
                                                 columnNumber: 19
                                             }, this),
                                             errors.experience && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2673,26 +2774,26 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 839,
+                                                        lineNumber: 898,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.experience
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 838,
+                                                lineNumber: 897,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 823,
+                                        lineNumber: 882,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                lineNumber: 727,
+                                lineNumber: 786,
                                 columnNumber: 15
                             }, this),
                             step === 7 && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2705,7 +2806,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "h-12 w-12 mx-auto mb-4 text-green-600"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 851,
+                                                lineNumber: 910,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -2713,7 +2814,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Final Step"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 852,
+                                                lineNumber: 911,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2721,13 +2822,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Upload required documents"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 853,
+                                                lineNumber: 912,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 850,
+                                        lineNumber: 909,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2737,7 +2838,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "h-12 w-12 mx-auto mb-4 text-gray-400"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 858,
+                                                lineNumber: 917,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -2745,7 +2846,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Upload ID Document"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 859,
+                                                lineNumber: 918,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2753,7 +2854,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Passport or Government ID"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 860,
+                                                lineNumber: 919,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2767,7 +2868,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "absolute inset-0 w-full h-full opacity-0 cursor-pointer"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 862,
+                                                        lineNumber: 921,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -2776,13 +2877,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "Choose File"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 869,
+                                                        lineNumber: 928,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 861,
+                                                lineNumber: 920,
                                                 columnNumber: 19
                                             }, this),
                                             formData.idDocument && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2792,14 +2893,14 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-4 w-4"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 875,
+                                                        lineNumber: 934,
                                                         columnNumber: 23
                                                     }, this),
                                                     formData.idDocument.name
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 874,
+                                                lineNumber: 933,
                                                 columnNumber: 21
                                             }, this),
                                             errors.idDocument && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2809,20 +2910,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 881,
+                                                        lineNumber: 940,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.idDocument
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 880,
+                                                lineNumber: 939,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 857,
+                                        lineNumber: 916,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2832,7 +2933,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "h-12 w-12 mx-auto mb-4 text-gray-400"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 889,
+                                                lineNumber: 948,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -2840,7 +2941,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Proof of Ownership"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 890,
+                                                lineNumber: 949,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2848,7 +2949,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 children: "Property deed or rental agreement"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 891,
+                                                lineNumber: 950,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2862,7 +2963,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "absolute inset-0 w-full h-full opacity-0 cursor-pointer"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 893,
+                                                        lineNumber: 952,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -2871,13 +2972,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "Choose File"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 900,
+                                                        lineNumber: 959,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 892,
+                                                lineNumber: 951,
                                                 columnNumber: 19
                                             }, this),
                                             formData.proofOfOwnership && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2887,14 +2988,14 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-4 w-4"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 906,
+                                                        lineNumber: 965,
                                                         columnNumber: 23
                                                     }, this),
                                                     formData.proofOfOwnership.name
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 905,
+                                                lineNumber: 964,
                                                 columnNumber: 21
                                             }, this),
                                             errors.proofOfOwnership && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -2904,20 +3005,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-3 w-3"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 912,
+                                                        lineNumber: 971,
                                                         columnNumber: 23
                                                     }, this),
                                                     errors.proofOfOwnership
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 911,
+                                                lineNumber: 970,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 888,
+                                        lineNumber: 947,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Card"], {
@@ -2931,7 +3032,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         className: "h-6 w-6 text-yellow-600 flex-shrink-0 mt-1"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 922,
+                                                        lineNumber: 981,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -2942,7 +3043,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 children: "Property Verification Video Required"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 924,
+                                                                lineNumber: 983,
                                                                 columnNumber: 25
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -2955,14 +3056,14 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                                 children: "Duration:"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                                lineNumber: 926,
+                                                                                lineNumber: 985,
                                                                                 columnNumber: 33
                                                                             }, this),
                                                                             " 2 minutes maximum"
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 926,
+                                                                        lineNumber: 985,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2972,14 +3073,14 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                                 children: "Format:"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                                lineNumber: 927,
+                                                                                lineNumber: 986,
                                                                                 columnNumber: 33
                                                                             }, this),
                                                                             " MP4, MOV, AVI, or WebM"
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 927,
+                                                                        lineNumber: 986,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -2989,14 +3090,14 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                                 children: "Maximum file size:"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                                lineNumber: 928,
+                                                                                lineNumber: 987,
                                                                                 columnNumber: 33
                                                                             }, this),
                                                                             " 500MB"
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 928,
+                                                                        lineNumber: 987,
                                                                         columnNumber: 27
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
@@ -3006,42 +3107,42 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                                 children: "Content must show:"
                                                                             }, void 0, false, {
                                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                                lineNumber: 929,
+                                                                                lineNumber: 988,
                                                                                 columnNumber: 33
                                                                             }, this),
                                                                             " All bedrooms, bathrooms, living areas, kitchen, parking, gym/pool (if listed)"
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 929,
+                                                                        lineNumber: 988,
                                                                         columnNumber: 27
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 925,
+                                                                lineNumber: 984,
                                                                 columnNumber: 25
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 923,
+                                                        lineNumber: 982,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 921,
+                                                lineNumber: 980,
                                                 columnNumber: 21
                                             }, this)
                                         }, void 0, false, {
                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                            lineNumber: 920,
+                                            lineNumber: 979,
                                             columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 919,
+                                        lineNumber: 978,
                                         columnNumber: 17
                                     }, this),
                                     !uploadedVideo ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3057,7 +3158,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                             className: "h-16 w-16 text-teal-600 mb-4"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 943,
+                                                            lineNumber: 1002,
                                                             columnNumber: 25
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3065,7 +3166,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                             children: "Click to upload property video"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 944,
+                                                            lineNumber: 1003,
                                                             columnNumber: 25
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3073,7 +3174,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                             children: "MP4, MOV, AVI or WebM (MAX. 500MB, 2 minutes)"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 947,
+                                                            lineNumber: 1006,
                                                             columnNumber: 25
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3083,7 +3184,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                     className: "w-2 h-2 bg-teal-600 rounded-full"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                    lineNumber: 951,
+                                                                    lineNumber: 1010,
                                                                     columnNumber: 27
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3091,19 +3192,19 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                     children: "REQUIRED FOR VERIFICATION"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                    lineNumber: 952,
+                                                                    lineNumber: 1011,
                                                                     columnNumber: 27
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 950,
+                                                            lineNumber: 1009,
                                                             columnNumber: 25
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                    lineNumber: 942,
+                                                    lineNumber: 1001,
                                                     columnNumber: 23
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -3141,18 +3242,18 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                     }
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                    lineNumber: 955,
+                                                    lineNumber: 1014,
                                                     columnNumber: 23
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                            lineNumber: 938,
+                                            lineNumber: 997,
                                             columnNumber: 21
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 937,
+                                        lineNumber: 996,
                                         columnNumber: 19
                                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "space-y-4",
@@ -3167,7 +3268,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "Your browser does not support the video tag."
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 996,
+                                                        lineNumber: 1055,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -3181,18 +3282,18 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                             className: "h-5 w-5"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 1011,
+                                                            lineNumber: 1070,
                                                             columnNumber: 25
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 1003,
+                                                        lineNumber: 1062,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 995,
+                                                lineNumber: 1054,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Card"], {
@@ -3206,7 +3307,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                 className: "h-6 w-6 text-green-600"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 1018,
+                                                                lineNumber: 1077,
                                                                 columnNumber: 27
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3216,7 +3317,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                         children: "Video uploaded successfully!"
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 1020,
+                                                                        lineNumber: 1079,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3224,7 +3325,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                         children: uploadedVideo.name
                                                                     }, void 0, false, {
                                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 1021,
+                                                                        lineNumber: 1080,
                                                                         columnNumber: 29
                                                                     }, this),
                                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3236,35 +3337,35 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                         ]
                                                                     }, void 0, true, {
                                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                        lineNumber: 1022,
+                                                                        lineNumber: 1081,
                                                                         columnNumber: 29
                                                                     }, this)
                                                                 ]
                                                             }, void 0, true, {
                                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                lineNumber: 1019,
+                                                                lineNumber: 1078,
                                                                 columnNumber: 27
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 1017,
+                                                        lineNumber: 1076,
                                                         columnNumber: 25
                                                     }, this)
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                    lineNumber: 1016,
+                                                    lineNumber: 1075,
                                                     columnNumber: 23
                                                 }, this)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 1015,
+                                                lineNumber: 1074,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 994,
+                                        lineNumber: 1053,
                                         columnNumber: 19
                                     }, this),
                                     isUploading && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3278,7 +3379,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "Uploading video..."
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 1035,
+                                                        lineNumber: 1094,
                                                         columnNumber: 23
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -3289,13 +3390,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 1036,
+                                                        lineNumber: 1095,
                                                         columnNumber: 23
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 1034,
+                                                lineNumber: 1093,
                                                 columnNumber: 21
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$progress$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Progress"], {
@@ -3303,13 +3404,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "h-2"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 1038,
+                                                lineNumber: 1097,
                                                 columnNumber: 21
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 1033,
+                                        lineNumber: 1092,
                                         columnNumber: 19
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3321,7 +3422,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                     className: "h-5 w-5 text-blue-600 mt-0.5"
                                                 }, void 0, false, {
                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                    lineNumber: 1044,
+                                                    lineNumber: 1103,
                                                     columnNumber: 21
                                                 }, this),
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3331,7 +3432,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                             children: "Pro Tips for Great Videos:"
                                                         }, void 0, false, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 1046,
+                                                            lineNumber: 1105,
                                                             columnNumber: 23
                                                         }, this),
                                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -3341,65 +3442,65 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                                     children: "• Record in landscape mode (horizontal)"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                    lineNumber: 1048,
+                                                                    lineNumber: 1107,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                     children: "• Use good lighting (natural light is best)"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                    lineNumber: 1049,
+                                                                    lineNumber: 1108,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                     children: "• Walk slowly through each room"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                    lineNumber: 1050,
+                                                                    lineNumber: 1109,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                     children: "• Speak clearly to describe features"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                    lineNumber: 1051,
+                                                                    lineNumber: 1110,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                     children: "• Show storage spaces and closets"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                    lineNumber: 1052,
+                                                                    lineNumber: 1111,
                                                                     columnNumber: 25
                                                                 }, this),
                                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                                                     children: "• Highlight unique features and amenities"
                                                                 }, void 0, false, {
                                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                                    lineNumber: 1053,
+                                                                    lineNumber: 1112,
                                                                     columnNumber: 25
                                                                 }, this)
                                                             ]
                                                         }, void 0, true, {
                                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                            lineNumber: 1047,
+                                                            lineNumber: 1106,
                                                             columnNumber: 23
                                                         }, this)
                                                     ]
                                                 }, void 0, true, {
                                                     fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                    lineNumber: 1045,
+                                                    lineNumber: 1104,
                                                     columnNumber: 21
                                                 }, this)
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                            lineNumber: 1043,
+                                            lineNumber: 1102,
                                             columnNumber: 19
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 1042,
+                                        lineNumber: 1101,
                                         columnNumber: 17
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3411,7 +3512,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 onCheckedChange: (checked)=>updateFormData("termsAccepted", checked)
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 1061,
+                                                lineNumber: 1120,
                                                 columnNumber: 19
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$label$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Label"], {
@@ -3426,7 +3527,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "Terms of Service"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 1068,
+                                                        lineNumber: 1127,
                                                         columnNumber: 21
                                                     }, this),
                                                     ",",
@@ -3437,7 +3538,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "Privacy Policy"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 1072,
+                                                        lineNumber: 1131,
                                                         columnNumber: 21
                                                     }, this),
                                                     ", and",
@@ -3448,19 +3549,19 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                         children: "Host Agreement"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                        lineNumber: 1076,
+                                                        lineNumber: 1135,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 1066,
+                                                lineNumber: 1125,
                                                 columnNumber: 19
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 1060,
+                                        lineNumber: 1119,
                                         columnNumber: 17
                                     }, this),
                                     errors.terms && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -3470,20 +3571,20 @@ function OwnerRegistration({ onComplete, onBack }) {
                                                 className: "h-3 w-3"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                                lineNumber: 1083,
+                                                lineNumber: 1142,
                                                 columnNumber: 21
                                             }, this),
                                             errors.terms
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 1082,
+                                        lineNumber: 1141,
                                         columnNumber: 19
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                lineNumber: 849,
+                                lineNumber: 908,
                                 columnNumber: 15
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -3496,7 +3597,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                         children: "Back"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 1092,
+                                        lineNumber: 1151,
                                         columnNumber: 15
                                     }, this),
                                     step < totalSteps ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
@@ -3505,7 +3606,7 @@ function OwnerRegistration({ onComplete, onBack }) {
                                         children: "Continue"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 1101,
+                                        lineNumber: 1160,
                                         columnNumber: 17
                                     }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["Button"], {
                                         onClick: handleSubmit,
@@ -3513,13 +3614,13 @@ function OwnerRegistration({ onComplete, onBack }) {
                                         children: "Complete Registration"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                        lineNumber: 1108,
+                                        lineNumber: 1167,
                                         columnNumber: 17
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/OwnerRegistration.tsx",
-                                lineNumber: 1091,
+                                lineNumber: 1150,
                                 columnNumber: 13
                             }, this)
                         ]
@@ -3562,11 +3663,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$UserContex
 ;
 ;
 function OwnerRegisterPage() {
-    const { navigate, setAuthView } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$UserContext$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useUser"])();
+    const { navigate, setAuthView, login } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$UserContext$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["useUser"])();
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$OwnerRegistration$2e$tsx__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["OwnerRegistration"], {
         onComplete: ()=>{
-            setAuthView("login");
-            navigate("landing"); // Or login
+            login("owner");
         },
         onBack: ()=>{
             setAuthView("login");

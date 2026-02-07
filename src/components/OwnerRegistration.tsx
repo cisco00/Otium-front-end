@@ -1,7 +1,7 @@
 import { useState } from "react";
-import { 
+import {
   User, Eye, EyeOff, CheckCircle, AlertCircle, ArrowLeft,
-  Home, Upload, FileText, MapPin, CreditCard, Briefcase, Video, X, Camera
+  Home, Upload, FileText, MapPin, CreditCard, Briefcase, Video, X, Camera, Globe, Car
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
@@ -29,7 +29,7 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
   const [step, setStep] = useState(1);
   const [showPassword, setShowPassword] = useState(false);
   const [showConfirmPassword, setShowConfirmPassword] = useState(false);
-  
+
   const [formData, setFormData] = useState({
     // Personal Info (Step 1)
     firstName: "",
@@ -37,17 +37,17 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
     email: "",
     phone: "",
     dateOfBirth: "",
-    
+
     // Security (Step 2)
     password: "",
     confirmPassword: "",
-    
+
     // Business Info (Step 3)
     businessType: "individual",
     businessName: "",
     businessRegNumber: "",
     taxId: "",
-    
+
     // Address & ID (Step 4)
     country: "Nigeria",
     state: "",
@@ -55,12 +55,12 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
     address: "",
     idType: "national_id",
     idNumber: "",
-    
+
     // Banking (Step 5)
     bankName: "",
     accountNumber: "",
     accountName: "",
-    
+
     // Property Info (Step 6)
     propertyTypes: {
       apartment: false,
@@ -72,7 +72,7 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
     },
     primaryLocations: "",
     experience: "",
-    
+
     // Documents (Step 7)
     idDocument: null as File | null,
     proofOfOwnership: null as File | null,
@@ -84,7 +84,7 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
 
   const validateEmail = (email: string) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
   const validatePhone = (phone: string) => phone.length >= 10 && /^[\d\s\-\+\(\)]+$/.test(phone);
-  const validatePassword = (password: string) => 
+  const validatePassword = (password: string) =>
     password.length >= 8 && /[A-Z]/.test(password) && /[a-z]/.test(password) && /[0-9]/.test(password);
 
   const validateStep = (currentStep: number) => {
@@ -229,13 +229,13 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
   const getPasswordStrength = () => {
     const password = formData.password;
     if (!password) return { strength: 0, label: "", color: "" };
-    
+
     let strength = 0;
     if (password.length >= 8) strength += 25;
     if (/[A-Z]/.test(password)) strength += 25;
     if (/[a-z]/.test(password)) strength += 25;
     if (/[0-9]/.test(password)) strength += 25;
-    
+
     if (strength <= 25) return { strength, label: "Weak", color: "bg-red-500" };
     if (strength <= 50) return { strength, label: "Fair", color: "bg-orange-500" };
     if (strength <= 75) return { strength, label: "Good", color: "bg-yellow-500" };
@@ -407,9 +407,8 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
                     <div className="mt-2">
                       <div className="flex items-center justify-between mb-1">
                         <span className="text-xs text-gray-600">Password strength:</span>
-                        <span className={`text-xs font-semibold ${
-                          passwordStrength.strength <= 50 ? 'text-red-600' : 'text-green-600'
-                        }`}>
+                        <span className={`text-xs font-semibold ${passwordStrength.strength <= 50 ? 'text-red-600' : 'text-green-600'
+                          }`}>
                           {passwordStrength.label}
                         </span>
                       </div>
@@ -474,19 +473,50 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
                 </div>
 
                 <div>
-                  <Label>Business Type *</Label>
-                  <RadioGroup 
-                    value={formData.businessType} 
+                  <Label className="text-base font-semibold mb-3 block">Business Type *</Label>
+                  <RadioGroup
+                    value={formData.businessType}
                     onValueChange={(value) => updateFormData("businessType", value)}
-                    className="mt-2 space-y-2"
+                    className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-2"
                   >
-                    <div className="flex items-center gap-2">
-                      <RadioGroupItem value="individual" id="individual" />
-                      <Label htmlFor="individual" className="cursor-pointer">Individual Host</Label>
+                    <div
+                      className={`relative border-2 rounded-xl p-4 cursor-pointer transition-all ${formData.businessType === "individual"
+                        ? "border-teal-600 bg-teal-50"
+                        : "border-gray-200 hover:border-gray-300 bg-white"
+                        }`}
+                      onClick={() => updateFormData("businessType", "individual")}
+                    >
+                      <div className="flex items-start gap-3">
+                        <RadioGroupItem value="individual" id="individual" className="mt-1" />
+                        <div>
+                          <Label htmlFor="individual" className="font-semibold text-lg cursor-pointer block mb-1">
+                            Individual Host
+                          </Label>
+                          <p className="text-sm text-gray-600">
+                            I am managing my own properties as a private individual.
+                          </p>
+                        </div>
+                      </div>
                     </div>
-                    <div className="flex items-center gap-2">
-                      <RadioGroupItem value="business" id="business" />
-                      <Label htmlFor="business" className="cursor-pointer">Registered Business</Label>
+
+                    <div
+                      className={`relative border-2 rounded-xl p-4 cursor-pointer transition-all ${formData.businessType === "business"
+                        ? "border-teal-600 bg-teal-50"
+                        : "border-gray-200 hover:border-gray-300 bg-white"
+                        }`}
+                      onClick={() => updateFormData("businessType", "business")}
+                    >
+                      <div className="flex items-start gap-3">
+                        <RadioGroupItem value="business" id="business" className="mt-1" />
+                        <div>
+                          <Label htmlFor="business" className="font-semibold text-lg cursor-pointer block mb-1">
+                            Registered Business
+                          </Label>
+                          <p className="text-sm text-gray-600">
+                            I represent a registered company or property management agency.
+                          </p>
+                        </div>
+                      </div>
                     </div>
                   </RadioGroup>
                 </div>
@@ -610,25 +640,54 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
 
                 <div className="border-t pt-6">
                   <h3 className="font-semibold mb-4">Identity Verification</h3>
-                  
+
                   <div>
-                    <Label htmlFor="idType">ID Type *</Label>
-                    <RadioGroup 
-                      value={formData.idType} 
+                    <Label className="text-base font-semibold mb-3 block">ID Type *</Label>
+                    <RadioGroup
+                      value={formData.idType}
                       onValueChange={(value) => updateFormData("idType", value)}
-                      className="mt-2 space-y-2"
+                      className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-2"
                     >
-                      <div className="flex items-center gap-2">
-                        <RadioGroupItem value="national_id" id="national_id" />
-                        <Label htmlFor="national_id" className="cursor-pointer">National ID</Label>
+                      <div
+                        className={`relative border-2 rounded-xl p-4 cursor-pointer transition-all ${formData.idType === "national_id"
+                            ? "border-teal-600 bg-teal-50"
+                            : "border-gray-200 hover:border-gray-300 bg-white"
+                          }`}
+                        onClick={() => updateFormData("idType", "national_id")}
+                      >
+                        <div className="flex flex-col items-center text-center gap-2">
+                          <RadioGroupItem value="national_id" id="national_id" className="absolute top-3 right-3" />
+                          <CreditCard className={`h-8 w-8 ${formData.idType === "national_id" ? "text-teal-600" : "text-gray-500"}`} />
+                          <Label htmlFor="national_id" className="font-semibold cursor-pointer">National ID</Label>
+                        </div>
                       </div>
-                      <div className="flex items-center gap-2">
-                        <RadioGroupItem value="passport" id="passport" />
-                        <Label htmlFor="passport" className="cursor-pointer">International Passport</Label>
+
+                      <div
+                        className={`relative border-2 rounded-xl p-4 cursor-pointer transition-all ${formData.idType === "passport"
+                            ? "border-teal-600 bg-teal-50"
+                            : "border-gray-200 hover:border-gray-300 bg-white"
+                          }`}
+                        onClick={() => updateFormData("idType", "passport")}
+                      >
+                        <div className="flex flex-col items-center text-center gap-2">
+                          <RadioGroupItem value="passport" id="passport" className="absolute top-3 right-3" />
+                          <Globe className={`h-8 w-8 ${formData.idType === "passport" ? "text-teal-600" : "text-gray-500"}`} />
+                          <Label htmlFor="passport" className="font-semibold cursor-pointer">Intl. Passport</Label>
+                        </div>
                       </div>
-                      <div className="flex items-center gap-2">
-                        <RadioGroupItem value="drivers_license" id="drivers_license" />
-                        <Label htmlFor="drivers_license" className="cursor-pointer">Driver's License</Label>
+
+                      <div
+                        className={`relative border-2 rounded-xl p-4 cursor-pointer transition-all ${formData.idType === "drivers_license"
+                            ? "border-teal-600 bg-teal-50"
+                            : "border-gray-200 hover:border-gray-300 bg-white"
+                          }`}
+                        onClick={() => updateFormData("idType", "drivers_license")}
+                      >
+                        <div className="flex flex-col items-center text-center gap-2">
+                          <RadioGroupItem value="drivers_license" id="drivers_license" className="absolute top-3 right-3" />
+                          <Car className={`h-8 w-8 ${formData.idType === "drivers_license" ? "text-teal-600" : "text-gray-500"}`} />
+                          <Label htmlFor="drivers_license" className="font-semibold cursor-pointer">Driver's License</Label>
+                        </div>
                       </div>
                     </RadioGroup>
                   </div>
@@ -664,7 +723,7 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
 
                 <div className="bg-teal-50 border border-teal-200 p-4 rounded-lg mb-4">
                   <p className="text-sm text-gray-700">
-                    <strong>Secure Payment:</strong> Your banking information is encrypted and secure. 
+                    <strong>Secure Payment:</strong> Your banking information is encrypted and secure.
                     We support Paystack, Flutterwave, and direct bank transfers.
                   </p>
                 </div>
@@ -967,10 +1026,10 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
                               });
                               return;
                             }
-                            
+
                             setUploadedVideo(file);
                             setVideoPreviewUrl(URL.createObjectURL(file));
-                            
+
                             // Simulate upload progress
                             setIsUploading(true);
                             setUploadProgress(0);
@@ -1096,7 +1155,7 @@ export function OwnerRegistration({ onComplete, onBack }: OwnerRegistrationProps
               >
                 Back
               </Button>
-              
+
               {step < totalSteps ? (
                 <Button
                   onClick={handleNext}
