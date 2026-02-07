@@ -94,6 +94,61 @@ export function UserProvider({ children }: { children: React.ReactNode }) {
             case "messages":
                 router.push("/messages");
                 break;
+            case "verification":
+                router.push("/verification");
+                break;
+            case "guest-verification":
+                router.push("/guest-verification");
+                break;
+            case "payment":
+                router.push("/payment");
+                break;
+            case "help-center":
+                router.push("/help-center");
+                break;
+            case "booking-requests":
+                router.push("/booking-requests");
+                break;
+            case "my-properties":
+                router.push("/my-properties");
+                break;
+            case "extension-requests":
+                router.push("/extension-requests");
+                break;
+            case "manage-guests":
+                router.push("/manage-guests");
+                break;
+            case "owner-messages":
+                router.push("/owner/messages");
+                break;
+            case "owner-payment":
+                router.push("/owner/payments");
+                break;
+            case "owner-profile":
+                router.push("/owner/profile");
+                break;
+            case "owner-help-center":
+                router.push("/owner/help-center");
+                break;
+            case "analytics":
+                router.push("/analytics");
+                break;
+            case "users":
+                router.push("/admin/users");
+                break;
+            case "settings":
+                router.push("/admin/settings");
+                break;
+            case "admin":
+                router.push("/admin");
+                break;
+            case "properties":
+                router.push("/admin/properties");
+                break;
+            case "add-property":
+                router.push("/my-properties");
+                // In a real app, this might go to /my-properties/add or open a modal
+                break;
             // Add more mappings as needed
             default:
                 console.log(`Navigating to view: ${view}`);

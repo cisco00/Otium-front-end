@@ -7482,7 +7482,7 @@ function UserSidebar({ userType, currentView, onNavigate, onLogout }) {
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$house$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Home$3e$__["Home"]
         },
         {
-            id: "search",
+            id: "my-properties",
             label: "My Properties",
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$building$2d$2$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Building2$3e$__["Building2"]
         },
@@ -7497,7 +7497,7 @@ function UserSidebar({ userType, currentView, onNavigate, onLogout }) {
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$clock$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Clock$3e$__["Clock"]
         },
         {
-            id: "guest-verification",
+            id: "manage-guests",
             label: "Manage Guests",
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$user$2d$check$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__UserCheck$3e$__["UserCheck"]
         },
@@ -7507,22 +7507,22 @@ function UserSidebar({ userType, currentView, onNavigate, onLogout }) {
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$chart$2d$column$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__BarChart3$3e$__["BarChart3"]
         },
         {
-            id: "messages",
+            id: "owner-messages",
             label: "Messages",
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$message$2d$square$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__MessageSquare$3e$__["MessageSquare"]
         },
         {
-            id: "payment",
+            id: "owner-payment",
             label: "Payments",
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$credit$2d$card$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__CreditCard$3e$__["CreditCard"]
         },
         {
-            id: "profile",
+            id: "owner-profile",
             label: "Profile Settings",
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$settings$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__Settings$3e$__["Settings"]
         },
         {
-            id: "help-center",
+            id: "owner-help-center",
             label: "Help Center",
             icon: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$help$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__HelpCircle$3e$__["HelpCircle"]
         }
@@ -8082,7 +8082,7 @@ function UserSidebar({ userType, currentView, onNavigate, onLogout }) {
                                         className: `h-5 w-5 flex-shrink-0 ${isActive ? "text-teal-600" : "text-gray-500"}`
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/UserSidebar.tsx",
-                                        lineNumber: 239,
+                                        lineNumber: 238,
                                         columnNumber: 17
                                     }, this),
                                     !isMinimized && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -8090,7 +8090,7 @@ function UserSidebar({ userType, currentView, onNavigate, onLogout }) {
                                         children: item.label
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/UserSidebar.tsx",
-                                        lineNumber: 240,
+                                        lineNumber: 239,
                                         columnNumber: 34
                                     }, this)
                                 ]
@@ -8123,7 +8123,7 @@ function UserSidebar({ userType, currentView, onNavigate, onLogout }) {
                             className: `h-5 w-5 ${isMinimized ? '' : 'mr-3'}`
                         }, void 0, false, {
                             fileName: "[project]/src/components/UserSidebar.tsx",
-                            lineNumber: 255,
+                            lineNumber: 254,
                             columnNumber: 11
                         }, this),
                         !isMinimized && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -8131,18 +8131,18 @@ function UserSidebar({ userType, currentView, onNavigate, onLogout }) {
                             children: "Logout"
                         }, void 0, false, {
                             fileName: "[project]/src/components/UserSidebar.tsx",
-                            lineNumber: 256,
+                            lineNumber: 255,
                             columnNumber: 28
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/components/UserSidebar.tsx",
-                    lineNumber: 249,
+                    lineNumber: 248,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/src/components/UserSidebar.tsx",
-                lineNumber: 248,
+                lineNumber: 247,
                 columnNumber: 7
             }, this)
         ]

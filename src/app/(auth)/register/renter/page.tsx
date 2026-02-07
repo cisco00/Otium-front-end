@@ -4,13 +4,12 @@ import { RenterRegistration } from "@/components/RenterRegistration";
 import { useUser } from "@/context/UserContext";
 
 export default function RenterRegisterPage() {
-    const { navigate, setAuthView } = useUser();
+    const { navigate, setAuthView, login } = useUser();
 
     return (
         <RenterRegistration
             onComplete={() => {
-                setAuthView("login");
-                navigate("login");
+                login("traveler");
             }}
             onBack={() => {
                 setAuthView("login");

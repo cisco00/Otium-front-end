@@ -2153,11 +2153,10 @@ var _s = __turbopack_refresh__.signature();
 ;
 function RenterRegisterPage() {
     _s();
-    const { navigate, setAuthView } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$UserContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useUser"])();
+    const { navigate, setAuthView, login } = (0, __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$UserContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useUser"])();
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$RenterRegistration$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["RenterRegistration"], {
         onComplete: ()=>{
-            setAuthView("login");
-            navigate("login");
+            login("traveler");
         },
         onBack: ()=>{
             setAuthView("login");
@@ -2169,7 +2168,7 @@ function RenterRegisterPage() {
         columnNumber: 9
     }, this);
 }
-_s(RenterRegisterPage, "5A1rTyMM/f64N8JFIDS7ilM7wU0=", false, function() {
+_s(RenterRegisterPage, "JsxKjLAI5ifqw/o6L/kAdtCQ710=", false, function() {
     return [
         __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$context$2f$UserContext$2e$tsx__$5b$app$2d$client$5d$__$28$ecmascript$29$__["useUser"]
     ];
